@@ -1,8 +1,8 @@
 # Arduino Annoying Box (Sinir Bozucu Kutu)
 
-![Project Demo GIF](demo.gif)
-
 Bu proje, bir anahtarı açtığınızda kutunun içinden bir kolun çıkarak anahtarı tekrar kapattığı klasik bir "Gereksiz Kutu" (Useless Box) projesidir. Ancak bu kutunun gizli bir özelliği var: **Sinir Bozucu Mod!**
+
+
 
 ---
 
@@ -39,7 +39,7 @@ Bu proje, 27 Ekim 2015'te bir mekatronik projesi olarak hayata geçirilmiştir.
 
 Projenin iç yapısını gösteren görseller:
 
-<img src="IMG_0007.jpg" alt="Proje İç Görünümü 1" width="400"/> <img src="IMG_0008.jpg" alt="Proje İç Görünümü 2" width="400"/>
+<img src="media/IMG_0007.JPG" alt="Proje İç Görünümü 1" width="400"/> <img src="media/IMG_0008.JPG" alt="Proje İç Görünümü 2" width="400"/>
 
 **Temel Pin Bağlantıları (`A.Box.ino` koduna göre):**
 
