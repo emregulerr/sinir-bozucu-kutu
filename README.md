@@ -2,7 +2,7 @@
 
 Bu proje, bir anahtarı açtığınızda kutunun içinden bir kolun çıkarak anahtarı tekrar kapattığı klasik bir "Gereksiz Kutu" (Useless Box) projesidir. Ancak bu kutunun gizli bir özelliği var: **Sinir Bozucu Mod!**
 
-
+https://github.com/user-attachments/assets/8f5b2947-cc86-4ceb-aa72-9aa34fbd3505
 
 ---
 
